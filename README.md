@@ -84,14 +84,6 @@ The application uses advanced tools and libraries like **Crystal Reports**, **Me
 
 ---
 
-## 🖥️ Installation & Setup
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/Pharmacy-Management-System.git
-
-
-
 
 ## 🖼️ Screenshots
 
